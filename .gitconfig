@@ -1,0 +1,11 @@
+[push]
+	default = current
+	autoSetupRemote = true
+[init]
+	defaultBranch = main
+[core]
+	autocrlf = true
+	autolf = false
+	editor = \"C:\\Users\\micha\\AppData\\Local\\Programs\\Microsoft VS Code Insiders\\bin\\code-insiders\" --wait
+[user]
+	email = swojtaszek0@gmail.com
